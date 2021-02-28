@@ -44,8 +44,8 @@
     --blockquote-background             : var(--mono-tint3);
     --blockquote-border-color           : ;
     --blockquote-border-style           : solid;
-    --blockquote-border-width           : ;
-    --blockquote-border-radius          : var(--border-radius-m);
+    --blockquote-border-width           : 0px 0px 0px 5px;
+    --blockquote-border-radius          : 0px;
     --blockquote-color                  : ;
     --blockquote-em-font-family         : ;
     --blockquote-em-font-size           : ;
@@ -371,6 +371,12 @@
     --sidebar-toggle-offset-left                  : 0;
     --sidebar-toggle-offset-top                   : calc(35px - (var(--sidebar-toggle-height) / 2));
     --sidebar-toggle-width                        : 44px;
+
+    --docsifytabs-border-color                    : var(--base-color);
+    --docsifytabs-tab-background--active          : transparent;
+    --docsifytabs-tab-color                       : var(--base-color);
+    --docsifytabs-tab-highlight-px                : 3px;
+    --docsifytabs-tab-highlight-color             : #a0467b;;
 }
 
 .footer {
@@ -478,6 +484,11 @@ border: 1px solid #a0467b;
 margin: 20px auto;
 }
 
+b.whiteBold {
+  color: white;
+  font-size: 16px;
+}
+
 .whiteBlueBreak {
   height: 400px;
   background-image: url('assets/whiteGrunge.png');
@@ -485,6 +496,38 @@ margin: 20px auto;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.whiteBreakAlt {
+  height: 400px;
+  background-image: url('assets/whiteGrungeAlt.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.blackBreak {
+  height: 400px;
+  background-image: url('assets/blackGrunge.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.blueBreak {
+  height: 400px;
+  background-image: url('assets/blueGrunge.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wideImageOther{
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 .thirdHeader {
   font-size: 1.2em;
@@ -495,13 +538,39 @@ margin: 20px auto;
 .swatchHeader {
   font-size: 1.2em;
   margin-bottom: 10px;
+  margin-top: 20px;
   font-weight: bold;
   background-color: white;
   padding: 5px;
+  max-width: 500px;
+}
+
+*:focus {
+    outline:none;
+}
+
+.docsify-tabs--material .docsify-tabs__tab {
+  font-weight: bold;
+}
+
+.yourAttentionPlease {
+  padding: 20px;
+  border-left: 3px solid #a0467b;
+  border-right: 3px solid #a0467b;
+  background-color: rgba(160, 70, 123, .2);
+  color: rgba(160, 70, 123, 1);
+}
+
+.fa-circle {
+
+  color: #a0467b;
+
 }
 
 @media screen and (max-width:990px) {
 .container {padding: 1em;}
 .gridContainer { flex-direction: column;  justify-content: flex-start;}
 .gridChild { max-width: 100%; margin-top: -2em;}
+.docsify-tabs--material .docsify-tabs__tab {width:100%;}
+.docsify-tabs--material .docsify-tabs__tab--active {border-top: 3px solid #a0467b;}
 }

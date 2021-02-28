@@ -4,7 +4,7 @@
   </div>
 </div>
 <div class="container">
-  <div class="leftHeader">
+  <div class="leftHeader" id="server-rules">
   Server Rules
   </div>
 

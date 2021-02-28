@@ -8,6 +8,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <link rel="stylesheet" href="theme-custom.css">
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/brands.css" />
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/regular.css" />
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
@@ -35,11 +39,22 @@
       name: 'LA in Anarchy',
       repo: '',
       loadSidebar: true,
-      logo: 'assets/LAiA.png'
+      subMaxLevel: 5,
+      logo: 'assets/LAiA.png',
+      tabs: {
+      persist    : true,      // default
+      sync       : false,      // default
+      theme      : 'material', // default
+      tabComments: true,      // default
+      tabHeadings: true,       // default
+}
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+  <script src="https://kit.fontawesome.com/b9c618fd9d.js" crossorigin="anonymous"></script>
+  <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
 </body>
 </html>

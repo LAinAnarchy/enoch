@@ -6,6 +6,7 @@
   * [NPC Guidelines](npc-guidelines.md)
 * Resources
   * [Traits](traits.md)
+  * [Archetypes](archetypes.md)
   * [Morality](morality.md)
   * [Frenzy](frenzy.md)
 * References

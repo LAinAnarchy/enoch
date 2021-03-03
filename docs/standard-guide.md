@@ -281,12 +281,15 @@ The Seers found themselves divided as the Camarilla waned and crumbled around th
   </div>
   Prioritize the three categories (Physical, Social, and Mental) for your character. Make sure to keep what each dot means in general in mind when allotting them.
 
+  <b>Vampires:</b> distribute 7/5/3 <br>
+  <b>Ghouls & Humans:</b> distribute 6/4/3
+
 
   <div class="yourAttentionPlease" style="margin-top: 20px;">
 
   <b>Important</b>
 
-
+  * All attributes start with a single dot which <b>aren't</b> counted. The only exception to this are Nosferatu, as their appearance would be 0.
   * Anything at 4 dots or higher should be justified within the character's biography and personality, considering they would have to be using it frequently to be at that level.
   * For any attributes that are at 4 dots or more, make sure to apply a specialty.
   * Specific information on what all of the attributes mean in Vampire can be found <a href="traits.md">here</a>.
@@ -294,13 +297,464 @@ The Seers found themselves divided as the Camarilla waned and crumbled around th
 
   </div>
 
-  For ease of reference, this is roughly what each of the dot levels mean for attributes.
+  For ease of reference, this is roughly what each of the dot levels mean for attributes. For specific levels at each stage, please see the <a href="traits.md">traits</a> page.
 
 <i class="fas fa-circle fa-sm"></i> <b>Poor:</b> Unexercised, unpracticed, or inept. <br>
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Average:</b> The result of occasional effort or application. <br>
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Good:</b> Regular practice or effort, or naturally talented. <br>
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Exceptional:</b> Frequently applied, tested, and honed. <br>
 <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Outstanding:</b> The peak of normal human capacity, continually exercised.
+
+<div class="secondHeader">
+Abilities
+</div>
+Prioritize the three categories (Talents, Skills, and Knowledges) for your character. All characters start with the first dot of Drive and Computers for free unless they are too old to have gained them.
+
+<b>Vampires:</b> distribute 13/9/5 <br>
+<b>Ghouls & Humans:</b> distribute 11/7/4
+
+<div class="yourAttentionPlease" style="margin-top: 20px;">
+
+<b>Important</b>
+
+
+At this stage in character creation, nothing can be over three dots. Any abilities at three dots must be well justified.
+
+</div>
+
+For ease of reference, this is roughly what each of the dot levels mean for abilities. For specific levels at each stage, please see the <a href="traits.md">traits</a> page.
+
+<i class="fas fa-circle fa-sm"></i> <b>Novice:</b> Basic knowledge and/or techniques. <br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Practitioner:</b> Solid working knowledge and/or techniques. <br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Professional:</b> Broad, detailed knowledge and/or techniques. <br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Expert:</b> Exceptional depth of knowledge and/or techniques. <br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <b>Master:</b> Unsurpassed depth of knowledge and/or techniques. A leader in the field.
+
+Make sure to think less about what they primarily do but things on the side. If they enjoy being around animals, a dot of animal ken wouldn’t be a stretch. If they sang in their church choir, a dot of performance would make sense. Really think about them as a complete person to spend these realistically instead of just maximizing what they’re “supposed to be good at.”
+
+There are abilities that require you to select specialties early:
+* Academics
+* Crafts
+* Expression
+* Law
+* Occult
+* Performance
+* Science
+* Technology
+</div>
+<div class="wideImageOtherNudge" style="background-image: url('assets/guideReminder.png'); min-width: 1500px; height: 600px; border-top: 1px solid white;"> </div>
+
+<div class="blueWrapper" style="margin-top: -20px; margin-bottom: -20px;">
+  <div class="container">
+    <div class="leftHeader"">
+    Advantages
+    </div>
+    <div class="swatchHeader" style="color: #384b7e;">
+    Disciplines
+    </div>
+    <div class="thirdHeader">
+    Vampires
+    </div>
+  You get 3 dots to spread across the three Disciplines your character's clan starts with. You could put one in each, all three in one, or any other combination that suits them as a character. Keep in mind that if any are left at 0 dots, it will cost 10 XP to get the first dot, in-Clan or not.
+
+  * <b>Blood Magic:</b> If you are taking a casting base Discipline and get Rituals, you can take any combination of Rituals with levels equal to those dots. (ie: If you have 5 dots in Thaumaturgy, you can either start with one level 5 Ritual, 5 level 1 Rituals, or any combination thereof.) You may learn more Rituals later on by following the process outlined in our <a href="rules.md#house-rules">House Rules</a>.
+  * <b>Caitiff:</b> It needs to be specified what clan spawned them (what clan their sire was) and then take 1-2 disciplines from that clan and then the rest common disciplines (Animalism, Auspex, Celerity, Dominate, Presence, Potence, Fortitude, and Obfuscate.) Caitiff cannot take any type of blood sorcery, and any caitiff spawned by a caitiff can only have common disciplines.
+
+  <div class="thirdHeader">
+  Ghouls
+  </div>
+You get 1 dot of Potence and 1 dot into an in-clan discipline of your domitor.
+
+* <b>Blood Magic:</b> Ghouls cannot take blood magic disciplines at this time.
+* <b>Caitiff:</b> Take one of the disciplines they started with.
+
+<div class="swatchHeader" style="color: #384b7e;">
+Backgrounds
+</div>
+You get 5 Background dots to spend. All backgrounds should be explained on the given page of the character sheet and justified within the character's backstory.
+
+* Generation can go up to 5 without pre-approval
+* Allies, Alternate Identity, Contacts, Fame, Herd, Influence, Mentor, Resources, and Retainers must be pre-approved past 3 dots
+* Status and Domain (official territory granted by the Baron) must be pre-approved regardless of dots
+
+<div class="yourAttentionPleaseWhite">
+
+<b>Important</b>
+
+
+Havens are counted under resources, domain is different.
+
+</div>
+
+You get 5 Background dots to spend. All backgrounds should be explained on the given page of the character sheet and justified within the character's backstory.
+
+Read on the available backgrounds here.
+
+<div class="thirdHeader">
+Humans
+</div>
+Background dots can be saved for use when they are embraced during play.
+
+<div class="swatchHeader" style="color: #384b7e; margin-top: 20px;">
+Virtues
+</div>
+You get 7 dots of virtues to spread throughout the 3.
+
+<div class="yourAttentionPleaseWhite" style="margin-top: 20px; margin-bottom: 20px;">
+
+<b>Important</b>
+
+
+Each virtue starts with one dot.  Those <b>aren't</b> counted when distributing them.
+
+</div>
+
+  </div>
+<div class="wideImageOtherNudge" style="background-image: url('assets/guideDropped.png'); min-width: 1500px; height: 600px;"> </div>
+</div>
+<div class="blueWrapper" style="background-color: black; margin-top: -10px; padding-top: 2em;">
+  <div class="container">
+    <div class="leftHeader"">
+    Finishing Touches
+    </div>
+  <div class="secondHeader">
+  Humanity
+  </div>
+  Humanity is equal to Conscience + Self-Control. You are welcome to lower the achieved humanity rating if you feel it is too high, but this will be without compensation.
+
+  Please see this page for more on Humanity.
+
+<div class="thirdHeader">
+Paths of Enlightenment
+</div>
+We allow the following paths of enlightenment in play. To play a character on a path, 3 freebies must be spent with ample justification given in the character's biography.
+
+* Path of the Beast
+* Path of Harmony
+* Path of Honorable Accord
+* Path of Ecstasy
+* Path of Redemption
+* Path of Nocturnal Redemption
+* Sharia El-Sama (Modern Path of the Prophet)
+* Path of Power and the Inner Voice
+
+If it isn't listed above, the path is currently not available for play.
+
+<div class="yourAttentionPleaseWhite" style="margin-top: 20px; margin-bottom: 10px;">
+
+<b>Important</b>
+
+
+There should be a clear reason as to why the character is on a path. If you are unable to come up with a reason as to how they were able to switch their morality or why, they should remain on humanity.
+
+</div>
+
+<div class="secondHeader">
+Willpower
+</div>
+Willpower is equal to Courage.
+
+<div class="secondHeader" style="margin-top: 5px;">
+Starting Blood Pool
+</div>
+
+<div class="thirdHeader">
+Vampires
+</div>
+Equal to 8.
+
+<div class="thirdHeader" style="margin-top: 5px;">
+Ghouls
+</div>
+Equal to 1.
+</div>
+</div>
+<div class="wideImageOtherNudge" style="background-image: url('assets/guideFirst.png'); min-width: 1500px; height: 600px;"> </div>
+<div class="container">
+<div class="leftHeader">
+Freebies
+</div>
+Finally, you may spend Freebie points in order to round out your character. An additional 7 may be gained from taking flaws. View our merits and flaws list here.
+
+* Additional flaws may be taken past the 7 points for flavor only, they do not award further freebie points
+* If you are interested in taking a Path of Enlightenment or play a Bloodline, both require "merits" custom to LA in Anarchy at the cost of 3 freebies for a path, and 5 for a Bloodline, in addition to the other requirements.
+* Merits and Flaws not listed in the directory are not available for play at this time
+* Restricted Merits and Flaws require pre-approval before being applied to a sheet, please inquire with an ST about them
+* Banned Merits and Flaws are not going to be approved and will be asked to be removed from a character sheet
+
+<div class="yourAttentionPlease" style="margin-top: 20px; margin-bottom: 10px;">
+
+<b>Important</b>
+
+
+Virtues increased with freebie points or experience does not increase Traits based on that Virtue (Humanity, Path, Willpower).
+
+</div>
+
+<div class="secondHeader">
+Vampires
+</div>
+
+* 15 Freebies
+* Any freebies not used at character creation will be forfeited unless reworked at a later time.
+
+<table>
+<thead>
+  <tr>
+    <th>Trait</th>
+    <th>Cost</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Attribute</td>
+    <td>5 per dot</td>
+  </tr>
+  <tr>
+    <td>Ability</td>
+    <td>2 per dot</td>
+  </tr>
+  <tr>
+    <td>Discipline</td>
+    <td>7 per dot</td>
+  </tr>
+  <tr>
+    <td>Backgrounds</td>
+    <td>1 per dot</td>
+  </tr>
+  <tr>
+    <td>Virtue</td>
+    <td>2 per dot</td>
+  </tr>
+  <tr>
+    <td>Humanity/Path Rating</td>
+    <td>2 per dot</td>
+  </tr>
+  <tr>
+    <td>Path</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Bloodline</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>Willpower</td>
+    <td>1 per dot</td>
+  </tr>
+</tbody>
+</table>
+
+<div class="secondHeader">
+Ghouls & Humans
+</div>
+
+* 21 Freebies
+* Freebies can be saved until embrace. If the freebies aren't marked down to be saved, they'll be forfeited unless reworked.
+
+<div class="yourAttentionPlease" style="margin-top: 20px; margin-bottom: 10px;">
+
+<b>Important</b>
+
+
+"In-Clan" Disciplines for ghouls are those of the clan of their first domitor, regardless of the domitor's actual Disciplines. Independent ghouls consider the physical Disciplines (Celerity, Fortitude, Potence) in-clan. Ghouls not currently in a vampire's service are considered Independent.
+
+</div>
+
+<table>
+<thead>
+  <tr>
+    <th>Trait</th>
+    <th>Cost</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Attribute</td>
+    <td>5 per dot</td>
+  </tr>
+  <tr>
+    <td>Ability</td>
+    <td>2 per dot</td>
+  </tr>
+  <tr>
+    <td>Discipline*</td>
+    <td>10 per dot</td>
+  </tr>
+  <tr>
+    <td>Backgrounds</td>
+    <td>1 per dot</td>
+  </tr>
+  <tr>
+    <td>Virtue</td>
+    <td>2 per dot</td>
+  </tr>
+  <tr>
+    <td>Humanity/Path Rating</td>
+    <td>2 per dot</td>
+  </tr>
+  <tr>
+    <td>Path*</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>Willpower</td>
+    <td>1 per dot</td>
+  </tr>
+  <tr>
+    <td>Willpower</td>
+    <td>1 per dot</td>
+  </tr>
+</tbody>
+</table>
+
+<em>*Ghouls only</em>
+
+<div class="leftHeader">
+Experience
+</div>
+
+<div class="yourAttentionPlease" style="margin-top: 20px; margin-bottom: 10px;">
+
+<b>Important</b>
+
+
+Experience does <b>not</b> need to be taken to be on par with the other characters on the server. Experience gain is rather quick, and rarely do stats come in to play when dealing with other players.
+
+</div>
+
+<div class="secondHeader">
+Vampires
+</div>
+
+Can take 1 Experience Point for every active year (not in torpor) as a Vampire. This can go to a 100 point maximum, regardless if the character is older or not.
+
+<table>
+<thead>
+  <tr>
+    <th>Trait</th>
+    <th>Cost</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>New Ability</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>New Discipline</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>New Thaumaturgy/Necromancy Path</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Attribute</td>
+    <td>Current rating x 4</td>
+  </tr>
+  <tr>
+    <td>Ability</td>
+    <td>Current rating x 2</td>
+  </tr>
+  <tr>
+    <td>Clan Discipline</td>
+    <td>Current rating x 5</td>
+  </tr>
+  <tr>
+    <td>Other Discipline</td>
+    <td>Current rating x 5</td>
+  </tr>
+  <tr>
+    <td>Thaumaturgy/Necromancy Path</td>
+    <td>Current rating x 4</td>
+  </tr>
+  <tr>
+    <td>Virtue*</td>
+    <td>Current rating x 2</td>
+  </tr>
+  <tr>
+    <td>Humanity or Path of Enlightenment</td>
+    <td>Current rating x 2</td>
+  </tr>
+  <tr>
+    <td>Willpower</td>
+    <td>Current rating</td>
+  </tr>
+</tbody>
+</table>
+
+<div class="secondHeader">
+Ghouls
+</div>
+
+Can take 1 Experience per every consecutive year of being a ghoul. This can go to a 50 point maximum.
+
+<table>
+<thead>
+  <tr>
+    <th>Trait</th>
+    <th>Cost</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>New Ability</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>New Discipline</td>
+    <td>20</td>
+  </tr>
+  <tr>
+    <td>Attribute</td>
+    <td>Current rating x 4</td>
+  </tr>
+  <tr>
+    <td>Ability</td>
+    <td>Current rating x 2</td>
+  </tr>
+  <tr>
+    <td>Clan Discipline*</td>
+    <td>Current rating x 15</td>
+  </tr>
+  <tr>
+    <td>Other Discipline*</td>
+    <td>Current rating x 25</td>
+  </tr>
+  <tr>
+    <td>Virtue</td>
+    <td>Current rating x 2</td>
+  </tr>
+  <tr>
+    <td>Humanity or Path of Enlightenment</td>
+    <td>Current rating x 2</td>
+  </tr>
+  <tr>
+    <td>Willpower</td>
+    <td>Current rating</td>
+  </tr>
+</tbody>
+</table>
+
+<div class="secondHeader">
+Humans
+</div>
+Humans can't take starting experience at this time.
+
+<div class="leftHeader">
+Other Requirements
+</div>
+All characters submitted need a biography. The goal of it is to inform storytellers, not to write a narrative masterpiece. As such, it should have answers to questions your character might not, such as why their sire embraced them, and provide ample justification for how they are the way they are.
+
+* It should be a minimum of 500 words. If your biography reaches more than 1500 words, we request that important bullet points or a summary of important events are also included for ease of reference
+* Third person <b>only</b>.
+
+<div class="leftHeader">
+Finished?
+</div>
+Please submit the link to your google doc to our bot Caine. Please see #getting-started or Caine's documentation for how.
+
 </div>
 
 <div class= blueWrapper>

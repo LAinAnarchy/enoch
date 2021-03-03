@@ -227,16 +227,16 @@
 
     /* Tables */
     --table-body-border-color           : ;
-    --table-body-border-width           : ;
+    --table-body-border-width           : 0px ;
     --table-cell-border-color           : ;
-    --table-cell-border-width           : ;
-    --table-cell-padding                : 0.75em 0.5em;
+    --table-cell-border-width           : 2px 0px 0px 0px ;
+    --table-cell-padding                : 0.5em 1em;
     --table-head-background             : ;
     --table-head-border-color           : var(--table-cell-border-color);
-    --table-head-border-width           : ;
+    --table-head-border-width           : 2px 0px 0px 0px;
     --table-head-font-weight            : var(--strong-font-weight);
     --table-row-even-background         : ;
-    --table-row-odd-background          : var(--mono-tint3);
+    --table-row-odd-background          : #efefef;
 
 
 
@@ -528,6 +528,13 @@ b.whiteBold {
   background-size: cover;
 }
 
+.wideImageOtherNudge{
+  height: 400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 
 .thirdHeader {
   font-size: 1.2em;
@@ -538,7 +545,6 @@ b.whiteBold {
 .swatchHeader {
   font-size: 1.2em;
   margin-bottom: 10px;
-  margin-top: 20px;
   font-weight: bold;
   background-color: white;
   padding: 5px;
@@ -561,6 +567,14 @@ b.whiteBold {
   color: rgba(160, 70, 123, 1);
 }
 
+.yourAttentionPleaseWhite {
+  padding: 20px;
+  border-left: 3px solid white;
+  border-right: 3px solid white;
+  background-color: rgba(255, 255, 255, .2);
+  color: white;
+}
+
 .fa-circle {
 
   color: #a0467b;
@@ -573,4 +587,5 @@ b.whiteBold {
 .gridChild { max-width: 100%; margin-top: -2em;}
 .docsify-tabs--material .docsify-tabs__tab {width:100%;}
 .docsify-tabs--material .docsify-tabs__tab--active {border-top: 3px solid #a0467b;}
+.wideImageOtherNudge {background-position: -500px;}
 }

@@ -2,7 +2,7 @@
   <title>LAiA - Standard Character Guide</title>
   <meta name="description" content="LA in Anarchy's Standard Character Creation Guide.">
 </head>
-<div class="pageHero" style="background-image: url('assets/standardGuideCover.jpg');">
+<div class="pageHero" style="background-image: url('assets/standardGuideCover.jpg'); background-size: cover;">
   <div class="pageHeroHeader">
       Standard Character Creation
   </div>
@@ -15,7 +15,7 @@ Welcome to LA in Anarchy
 </div>
 The information below clarifies how to create a vampire, ghoul, and mortal character for the specific LA in Anarchy setting. If you are completely brand new to V20 or Vampire in general, please refer to our <a href="new-player-guide.md">New Player Guide</a> instead, as the rules are slightly different to assist with easing new players into the game.
 
-<div class="swatchHeader" style="color: #100c0d;">
+<div class="swatchHeader" style="color: #100c0d; margin-top: 10px;">
 Materials
 </div>
 These are our Approved resources. The character sheet linked below must be used in order to submit a character.

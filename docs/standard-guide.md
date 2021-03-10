@@ -4,7 +4,7 @@
   </div>
 </div>
 
-<div class="blueWrapper" style="background-color: #100c0d; margin-top: -10px; padding-top: 2em;">
+<div class="blueWrapper" style="background-color: #0e0a0b; margin-top: -10px; padding-top: 2em;">
 <div class="container">
 <div class="leftHeader" style="color: white;">
 Welcome to LA in Anarchy

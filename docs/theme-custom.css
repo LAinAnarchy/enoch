@@ -449,6 +449,8 @@
 }
 
 
+
+
 .centeredSubHeader{
   text-align: center;
   font-size: 1.5em;
@@ -549,6 +551,7 @@ b.whiteBold {
   background-color: white;
   padding: 5px;
   max-width: 500px;
+  color: #384b7e;
 }
 
 *:focus {
@@ -579,6 +582,15 @@ b.whiteBold {
 
   color: #a0467b;
 
+}
+
+.markdown-section th.white {
+  background-color: white;
+  color: #384b7e;
+}
+
+th.white {
+  background-color: white;
 }
 
 @media screen and (max-width:990px) {

@@ -1,3 +1,6 @@
+<head>
+  <title>LAiA | New Player Guide</title>
+</head>
 <div class="pageHero" style="background-image: url('assets/newGuideCover.png');">
   <div class="pageHeroHeader">
       New Player Guide

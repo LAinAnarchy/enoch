@@ -3,7 +3,7 @@
       Welcome to Los Angeles in Anarchy
   </div>
   <div class="pageHeroSubtext">
-  Los Angeles in Anarchy (LAiA) is a Vampire: the Masquerade 20th Anniversary Edition play-by-post/text roleplaying Discord server set in 2026 Los Angeles, California.
+  Los Angeles in Anarchy (LAiA) is a Vampire: the Masquerade 20th Anniversary Edition play-by-post/text roleplaying Discord server set in 2029 Los Angeles, California.
   </div>
 </div>
 <div class="container">

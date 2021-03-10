@@ -3,7 +3,7 @@
   <meta name="description" content="LA in Anarchy's Hunting System">
 </head>
 
-<div class="pageHero" style="background-image: url('assets/huntingCover.jpg'); background-position: 0px -300px;">
+<div class="pageHero" style="background-image: url('assets/huntingCover.jpg'); background-position: 0px -250px;">
   <div class="pageHeroHeader">
       Hunting
   </div>

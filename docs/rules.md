@@ -1,3 +1,7 @@
+<head>
+  <title>LAiA - Rules</title>
+  <meta name="description" content="LA in Anarchy's Server, Roleplay, and House Rules.">
+</head>
 <div class="pageHero" style="background-image: url('assets/rulesCover.png');">
   <div class="pageHeroHeader">
       Rules

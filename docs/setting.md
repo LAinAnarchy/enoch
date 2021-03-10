@@ -1,3 +1,7 @@
+<head>
+  <title>LAiA - Setting</title>
+  <meta name="description" content="LA in Anarchy's Roleplay Setting Overview.">
+</head>
 <div class="pageHero" style="background-image: url('assets/settingCover.png');">
   <div class="pageHeroHeader">
       Setting

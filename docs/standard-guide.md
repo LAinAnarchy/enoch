@@ -1,3 +1,7 @@
+<head>
+  <title>LAiA - Standard Character Guide</title>
+  <meta name="description" content="LA in Anarchy's Standard Character Creation Guide.">
+</head>
 <div class="pageHero" style="background-image: url('assets/standardGuideCover.jpg');">
   <div class="pageHeroHeader">
       Standard Character Creation

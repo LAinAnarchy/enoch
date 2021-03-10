@@ -1,5 +1,6 @@
 <head>
-  <title>LAiA | New Player Guide</title>
+  <title>LAiA - New Player Guide</title>
+  <meta name="description" content="LA in Anarchy's New Vampire Player Character Creation Guide.">
 </head>
 <div class="pageHero" style="background-image: url('assets/newGuideCover.png');">
   <div class="pageHeroHeader">

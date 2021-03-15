@@ -13,7 +13,7 @@
 <b>Important</b>
 
 
-The information below walks you through creating your first Vampire: the Masquerade character, whether Kindred or mortal, for the specific LA in Anarchy setting. If you are not completely brand new to V20, please refer to our standard character creation page instead, as these rules are different to help introduce new players to Vampire.
+The information below walks you through creating your first Vampire: the Masquerade character, whether Kindred or mortal, for the specific LA in Anarchy setting. If you are not completely brand new to V20, please refer to our [standard character creation page](standard-guide.md) instead, as these rules are different to help introduce new players to Vampire.
 
 </div>
 <div class="leftHeader">
@@ -27,12 +27,20 @@ Materials
 This is what you'll need to make your first character. To use the character sheets, please select file > make a copy and save it into your drive. You're welcome to download it and use it as a Word document instead, but it isn't preferred, as we'll still need a google share link to it.
 
 <b class="thirdHeader">Books</b>
-* <a href="http://bit.ly/V20-Core">Core Rulebook</a>
-* <a href="http://bit.ly/V20-Clans">Lore of the Clans</a>
+* <a href="https://www.drivethrurpg.com/product/94815/Vampire-The-Masquerade-20th-Anniversary-Edition">Core Rulebook</a>
+* <a href="https://www.drivethrurpg.com/product/160891/V20-Lore-of-the-Clans">Lore of the Clans</a>
 
 <b class="thirdHeader">Character Sheets</b>
-* <a href="http://bit.ly/V20-Vampire-Sheet">Vampire</a>
-* <a href="http://bit.ly/V20-Human-Sheet">Human</a>
+* <a href="http://bit.ly/Vampire-Sheet-2021">Vampire</a>
+* <a href="http://bit.ly/Human-Sheet-2021">Human</a>
+
+<div class="yourAttentionPlease">
+
+<b>Important</b>
+
+You should see a colored key at the top of the character sheet. The base dots (marked with an x) you distribute should be kept black, but anything else should be marked accordingly.
+
+</div>
 
 <div class="secondHeader">
 Mature Content Warning
@@ -96,13 +104,13 @@ Archetype
 
 <div class="yourAttentionPleaseWhite">
 
-<em>Everyone plays a role, often several, every day. Every individual displays multiple layers of personality, varying from the contrived to the sincere. Each of these roles defines how we interact with the people and places around us, and we choose which parts of ourselves we wish to show.
+<em>"Everyone plays a role, often several, every day. Every individual displays multiple layers of personality, varying from the contrived to the sincere. Each of these roles defines how we interact with the people and places around us, and we choose which parts of ourselves we wish to show.
 
 It is the same with Kindred. The concept of Nature and Demeanor corresponds directly to the different masks we wear when we interact. A Vampire character’s Nature is her true self, her innermost being — the person she truly is. It is dangerous to show this, though, as it lets others know who we are and what is important to us. Thus, characters also have Demeanors, faces they show to the world. By choosing how we relate to the world, we are able to choose how it relates to us as well, as we guide the responses others give us.
 
 Philosophy aside, personality also has an effect on the mechanics of Vampire. A character may regain her drive and sense of purpose by acting in accordance with her Nature. Every time a character fulfills the requirement of her Nature Archetype (see below), that character has the opportunity to regain a point of spent Willpower (see p. 267). If the Storyteller allows, the character regains the point.
 
-Archetypes allow players to build a sense of personality for their characters, and to define a bit of what makes the character tick. It is worth noting that Archetypes are not rigid; characters need not slavishly devote themselves to their Natures and Demeanors. Rather, the character should act as the player reasonably or emotionally believes she would act in a given situation.</em>
+Archetypes allow players to build a sense of personality for their characters, and to define a bit of what makes the character tick. It is worth noting that Archetypes are not rigid; characters need not slavishly devote themselves to their Natures and Demeanors. Rather, the character should act as the player reasonably or emotionally believes she would act in a given situation."</em>
 
 ~ V20, 87-88
 
@@ -163,14 +171,14 @@ Anything at 4 dots should be well reasoned, like I did above, as they should be 
 Abilities
 </div>
 
-Now we’ve reached the real mechanical meat of the character: the individual things that the character can do. There are 30 of them, which might make it seem overwhelming, but it won’t be as painful as it might seem!
+Now we’ve reached the real mechanical meat of the character: the individual things that the character can do. There are 30 of them, which might make it seem overwhelming, but it won’t be as difficult as it might seem!
 
 Just like before, Vampires and Humans have different numbers of dots they can assign in the different categories:
 
 * <b>Vampires:</b> 13 in Primary, 9 in Secondary, 5 in Tertiary
 * <b>Human:</b> 11 in Primary, 7 in Secondary, 4 in Tertiary
 
-Before we start assigning them, take a free dot in both drive and computers. Vampire is a little dated, so you need the first dot in drive to drive a car and the first dot in computers to use a touch screen. Unless there’s a specific reason why your character wouldn’t be able to do either of those things, add those dots now. They don’t count against your totals.
+Before we start assigning them, take a free dot in both drive and computers. Vampire is a little dated, so you need the first dot in drive to drive a car and the first dot in computers to use a touch screen. Unless there’s a specific reason why your character wouldn’t be able to do either of those things, add those dots now and <b>remember to mark them in <span style="color: orange;">orange</span></b>. They don’t count against your totals.
 
 Once again need to prioritize the categories. If someone spent a lot of time in school, they’re likely a Knowledge Primary, while someone really good with technical things might be a Skills Primary. It’s highly encouraged to take a look at what each dot means before assigning them, as they might be different than what you believe. That can be done here.
 
@@ -404,3 +412,433 @@ The Gangrel Clan is well known for their mastery of Protean, although other Kind
  </div>
 
 Backgrounds are the other “things” your character has that needs to be represented mechanically, but doesn’t/can’t have an associated XP cost. That being said, backgrounds can’t be increased with experience points and must be earned throughout roleplay.
+
+You get 5 dots to spend however you like, although we have some restrictions:
+
+* <b>Generation must be taken to be lower than 13th.</b> 1 dot would be 12th, 2 would be 11th, to a maximum of 3 at 10th.
+Allies, Alternate Identity, Contacts, Fame, Herd, Influence, Mentor, Resources, and Retainers must be pre-approved past 3 dots
+* NPCs might need character sheets, refer to our NPC guide for more
+* Status and Domain (official territory granted by an NPC Baron) must be pre-approved regardless of dots
+
+<details>
+<summary>
+<b>Available Backgrounds</b>
+</summary>
+
+<div class="secondHeader">Universal</div>
+
+<div class="thirdHeader">Allies</div>
+
+Allies are mortals who support and help you — family, friends, or even a mortal organization that owes you some loyalty. Although allies aid you willingly, without coaxing or coercion, they are not always available to offer assistance; they have their own concerns and can do only so much for the sake of your relationship. However, they might have some useful Background Traits of their own, and could provide you with indirect access to their contacts, influence, or resources.
+
+Allies are typically persons of influence and power in your home city. They can be of almost any sort, depending on what your Storyteller will allow. You may have friends in the precinct morgue, at a prominent blog, among the high society of local celebrities, or at a construction site. Your Allies might be a clan of nomads who move their mobile home camp around the area, or they might be a family of generations of police officers. You may even count the mayor himself among your friends, depending on how many dots you spend on this Trait. Your Allies are generally trustworthy (though they probably don’t know that you’re a vampire, or even that vampires exist). However, nothing comes for free. If you wind up drawing favors from your friend in the Cosa Nostra, he’ll probably ask you to do him a favor in kind in the future. This often leads to the beginning of a story.…
+
+Allies must be listed on a character sheet with their name and relation to the character.
+
+<i class="fas fa-circle fa-sm"></i> One ally of moderate influence and power <br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Two allies, both of moderate power <br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Three allies, one of whom is quite influential <br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Four allies, one of whom is very influential <br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Five allies, one of whom is extremely influential
+
+<div class="thirdHeader">Alternate Identity</div>
+
+You maintain an alternate identity, complete with papers, birth certificates, or any other documentation you desire. Only a few may know your real name or identity. Your alternate persona may be highly involved in organized crime, a member of the opposite Sect, a con artist who uses alternate identities for her game, or you may simply gather information about the enemy. Indeed, some vampires may know you as one individual while others believe you to be someone else entirely.
+
+This must be justified within the character's backstory and be roleplayed at the appropriate dot level.
+
+<i class="fas fa-circle fa-sm"></i> You are new at this identity game. Sometimes you slip and forget your other persona.<br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> You are well grounded in your alternate identity. You are convincing enough to play the part of a doctor, lawyer, funeral salesman, drug-smuggler, or a capable spy.<br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> You have a fair reputation as your alternate persona and get name-recognition in the area where you have infiltrated.<br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Your alternate identity has respect and trust within your area of infiltration.<br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> You command respect in your area of infiltration, and you may even have accumulated a bit of influence. You have the trust (or at least the recognition) of many powerful individuals within your area.
+
+<div class="thirdHeader">Contacts</div>
+
+You know people all over the city. When you start making phone calls around your network, the amount of information you can dig up is impressive. Rather than friends you can rely on to help you, like Allies, Contacts are largely people whom you can bribe, manipulate, or coerce into offering information. You also have a few major Contacts — associates who can give you accurate information in their fields of expertise. You should describe each major contact in some detail before the game begins.
+
+In addition to your major contacts, you also have a number of minor contacts spread throughout the city. Your major contact might be in the district attorney’s office, while your minor contacts might include beat cops, DMV clerks, club bouncers, or members of an online social network. You don’t need to detail these various “passing acquaintances” before play. Instead, to successfully get in touch with a minor contact, you should roll your Contacts rating (difficulty 7). You can reach one minor contact for each success. Of course, you still have to convince them to give you the information you need, assuming they can get it.
+
+Contacts must be listed on a character sheet with their name and relation to the character, as well as fleshed out in the character's backstory as to why they're a contact in the first place.
+
+<i class="fas fa-circle fa-sm"></i> One major contact<br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Two major contacts<br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Three major contacts<br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Four major contacts<br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Five major contacts<br>
+
+<div class="thirdHeader">Fame</div>
+
+You enjoy widespread recognition in mortal society, perhaps as an entertainer, writer, or athlete. People may enjoy just being seen with you. This gives you all manner of privileges when moving in mortal society, but can also attract an unwanted amount of attention now that you’re no longer alive. The greatest weapon fame has to offer is the ability to sway public opinion — as modern media constantly proves. Fame isn’t always tied to entertainment: A heinous criminal in a high-profile trial probably has a certain amount of fame, as do a lawmaker and a scientist who has made a popularized discovery.
+
+This Background is obviously a mixed blessing. You can certainly enjoy the privileges of your prestige — getting the best seats, being invited to events you’d otherwise miss, getting appointments with the elite — but you’re sometimes recognized when you’d rather not be. However, your enemies can’t just make you disappear without causing an undue stir, and you find it much easier to hunt in populated areas as people flock to you (reduce the difficulties of hunting rolls by one for each dot in Fame). Additionally, your Storyteller might permit you to reduce difficulties of certain Social rolls against particularly star-struck or impressionable people.
+
+Fame needs to be justified within the background of the character.
+
+<i class="fas fa-circle fa-sm"></i> You’re known to a select subculture — local club-goers, industry bloggers, or the Park Avenue set, for instance.<br>
+<i class="fas fa-circle fa-sm"></i> <i class="fas fa-circle fa-sm"></i> Random people start to recognize your face; you’re a minor celebrity such as a small-time criminal or a local news anchor.<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> You have greater renown; perhaps you’re a senator or an entertainer who regularly gets hundreds of thousands of YouTube hits.<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> A full-blown celebrity; your name is often recognized by the average person on the street.<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i>You’re a household word. People name their children after you.<br>
+
+
+
+<div class="thirdHeader">Influence</div>
+
+You have pull in the mortal community, whether through wealth, prestige, political office, blackmail, or supernatural manipulation. Kindred with high Influence can sway, and in rare cases even control, the political and social processes of human society. Influence represents the sum of your opinion or policy-swaying power in your community, particularly among the police and bureaucracy. In some cases, cultivating Influence is a path to generating Resources (see below).
+
+Some rolls may require you to use Influence in place of an Ability, particularly when attempting to sway minor bureaucrats. It’s easier to institute sweeping changes on a local level than a worldwide scale (e.g., having an “abandoned” building demolished is relatively easy, while starting a war is a bit more difficult).
+
+Where/With who the character has influence and how they earned it has to be specifically stated within their backstory.
+
+<i class="fas fa-circle fa-sm"></i> Moderately influential; a factor in city politics<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Well-connected; a force in state politics<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Position of influence; a factor in regional politics<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Broad personal power; a force in national politics<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Vastly influential; a factor in global politics<br>
+
+
+
+<div class="thirdHeader">Resources</div>
+
+Resources are valuable goods whose disposition your character controls. These assets may be actual cash, but as this Background increases, they’re more likely to be investments, property, or earning capital of some sort — land, industrial assets, stocks and bonds, commercial inventories, criminal infrastructure, contraband, even taxes or tithes. Remember that vampires don’t need to arrange for any food except blood and their actual needs (as opposed to wants) for shelter are very easily accommodated. Resources for vampires go mostly to pay for luxuries and the associated expenses of developing and maintaining Status, Influence, and other Backgrounds. A character with no dots in Resources may have enough clothing and supplies to get by, or she may be destitute and squatting in a refrigerator box under an overpass.
+
+You receive a basic allowance each month based on your rating, so be certain to detail exactly where this money comes from, be it a job, trust fund or dividends (Storytellers, decide for your locality and any relevant time period what an appropriate amount of cash this monthly allowance is.) After all, a Kindred’s fortune may well run out over the course of the chronicle, depending on how well he maintains it. You can also sell your less liquid resources if you need the cash, but this can take weeks or even months, depending on what exactly you’re trying to sell. Art buyers don’t just pop out of the woodwork, after all.
+
+The jobs, investments, and/or assets that make up a character's resources must be explained and justified in their backstory.
+
+<i class="fas fa-circle fa-sm"></i> Sufficient. You can maintain a typical residence in the style of the working class with stability, even if spending sprees come seldom. (Working dollar-to-dollar, low-class)<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Moderate. You can display yourself as a member in good standing of the middle class, with the occasional gift and indulgence seemly for a person of even higher station. You can maintain a servant or hire specific help as necessary. A fraction of your resources are available in cash, readily portable property (like jewelry or furniture), and other valuables (such as a car or modest home) that let you maintain a standard of living at the one-dot level wherever you happen to be, for up to six months. (Low Middle-Class)<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Comfortable. You are a prominent and established member of your community, with land and an owned dwelling, and you have a reputation that lets you draw on credit at very generous terms. You likely have more tied up in equity and property than you do in ready cash. You can maintain a one-dot quality of existence wherever you are without difficulty, for as long as you choose. (Mid/High Middle-Class)<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Wealthy. You rarely touch cash, as most of your assets exist in tangible forms that are themselves more valuable and stable than paper money. You hold more wealth than many of your local peers (if they can be called such a thing). When earning your Resources doesn’t enjoy your usual degree of attention, you can maintain a three-dot existence for up to a year, and a two-dot existence indefinitely. (Low High-Class)<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Extremely Wealthy. You are the model to which others strive to achieve, at least in the popular mind. Television shows, magazine spreads, and gossip websites speculate about your clothing, the appointments of your numerous homes, and the luxury of your modes of transportation. You have vast and widely distributed assets, perhaps tied to the fates of nations, each with huge staffs and connections to every level of society through a region. You travel with a minimum of three-dot comforts, more with a little effort. Corporations and governments sometimes come to you to buy into stocks or bond programs. (Highest of High-Class)<br>
+
+
+<div class="secondHeader">Vampire-Specific</div>
+
+<div class="thirdHeader>Domain</div>
+
+Domain is physical territory (usually within the chronicle’s central city) to which your character controls access for the purpose of feeding. Some Kindred refer to their domain as hunting grounds, and most jealously guard their domains, even invoking the Tradition of the same name to protect their claims. As part of this Background, the character’s claim to the domain is recognized by the Prince or some other Kindred authority in the city where it is located.
+
+The Kindred who claims the domain can’t keep the living inhabitants from going about their business, nor does she exercise any direct influence over them, but she can keep watch herself and mind their comings and goings. She can also have Allies or Retainers specifically look for unfamiliar vampires and alert her when they find some.
+
+Domain refers specifically to the geography (in most cases a neighborhood or street) and properties on it, as opposed to the people who may dwell there (which is the emphasis of Herd). Domain plays an important part in Kindred society — vampires who lack significant Domain seldom earn respect — but it isn’t an automatic entitlement to status among the Damned.
+
+You may designate one or more dots in Domain to increase the security of your character’s territory rather than its size. Each dot so assigned to security provides a +1 difficulty penalty to efforts to intrude into the domain by anyone your character hasn’t specifically allowed in, and a -1 difficulty bonus to efforts by your character to identify and track intruders in the domain. A Domain of one dot’s size and two dots’ security, for instance, is small but quite resistant to intrusion, as opposed to a Domain rating of three dots’ size with no extraordinary security.
+
+Each level of Domain reduces the difficulty of hunting checks by one for your character and those whom the character allows in. It also adds to your starting (not maximum) blood pool. If you use the domain security option, each dot of domain security raises the difficulty of hunting checks by one for uninvited vampires. See
+p. 259 for more information on hunting.
+
+Domain needs to be justified within the backstory and potentially resources (if it is a place they purchased) of a character to be permitted.
+
+<i class="fas fa-circle fa-sm"></i> A single small building, such as a single-family home or a social establishment — enough for a basic haven. <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> A church, factory, warehouse, mid-rise, or other large structure — a location with ready but easily controllable access to the outside world.<br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> A high-rise, city block, or an important intersection — a location or area that offers areas for concealment as well as controlled access. <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i>A sewer subsection, a network of service tunnels, the enclave of homes on a hill overlooking the city — a place with inherently protective features, such as an isolated mountain road, bridge-only access, or vigilant private security force. <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> An entire neighborhood, an ethnic subdivision like “Chinatown” or “Little Italy,” or a whole suburb.
+
+<div class="thirdHeader>Generation</div>
+
+This Background represents your Generation: the purity of your blood, and your proximity to the First Vampire. A high Generation rating may represent a powerful sire or a decidedly dangerous taste for diablerie. If you don’t take any dots in this Trait, you begin play as a Thirteenth Generation vampire. See p. 270 for further information.
+
+<i class="fas fa-circle fa-sm"></i> Twelfth Generation: 11 blood pool, can spend 1 blood point per turn <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Eleventh Generation: 12 blood pool, can spend 1 blood point per turn <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Tenth Generation: 13 blood pool, can spend 1 blood point per turn <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Ninth Generation: 14 blood pool, can spend 2 blood points per turn <br>
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Eighth Generation: 15 blood pool, can spend 3 blood points per turn
+
+<dv class="thirdHeader>Herd</div>
+
+You have built a group of mortals from whom you can feed without fear. A herd may take many forms, from circles of kinky clubgoers to actual cults built around you as a god-figure. In addition to providing nourishment, your herd might come in handy for minor tasks, though they are typically not very controllable, closely connected to you, or particularly skilled (for more effective pawns, purchase Allies or Retainers). Your Herd rating adds dice to your rolls for hunting; see p. 259 for further details.
+
+The nature of their herd must be described within the character's backstory.
+
+<i class="fas fa-circle fa-sm"></i> Three vessels
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Seven vessels
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> 15 vessels
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> 30 vessels
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> 60 vessels
+
+<dv class="thirdHeader>Mentor</div>
+
+This Trait represents a Kindred or group of Kindred who looks out for you, offering guidance or aid once in a while. A mentor may be powerful, but his power need not be direct. Depending on the number of dots in this Background, your mentor might be nothing more than a vampire with a remarkable information network, or might be a centuries-old creature with tremendous influence and supernatural power. He may offer advice, speak to the Prince or Archbishop on your behalf, steer other elders clear of you, or warn you when you’re walking into situations you don’t understand.
+
+Most often your mentor is your sire, but it could well be any Cainite with an interest in your wellbeing. A high Mentor rating could even represent a group of like-minded vampires, such as the elders of the city’s Tremere chantry or a Black Hand cell.
+
+Bear in mind that this Trait isn’t a “Get out of Jail Free” card. Your mentor won’t necessarily arrive like the cavalry whenever you’re endangered (and if she does, you’re likely to lose a dot or more in this Background after rousing her ire). What’s more, she might occasionally expect something in return for her patronage, which can lead to a number of interesting stories. A mentor typically remains aloof, giving you useful information or advice out of camaraderie, but will abandon you without a thought if you prove an unworthy or troublesome protégé.
+
+How they acquired a mentor, who the mentor is, and their relationship must be detailed within the character's backstory.
+
+<i class="fas fa-circle fa-sm"></i> Mentor is an ancilla of little influence, or a Ductus or Pack Priest.
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Mentor is respected: an elder or highly-decorated veteran, for instance.
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Mentor is heavily influential, such as a member of the Primogen or a Bishop.
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i>Mentor has a great deal of power over the city: a Prince or Archbishop, for example.
+<i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i><i class="fas fa-circle fa-sm"></i> Mentor is extraordinarily powerful, perhaps even a Justicar or Cardinal.
+
+Retainers
+Not precisely Allies or Contacts, your retainers are servants, assistants, or other people who are your loyal and steadfast companions. Many vampires’ servants are ghouls
+(p. 496) — their supernatural powers and blood bond-enforced loyalty make them the servants of choice. Retainers may also be people whom you’ve repeatedly Dominated until they have no free will left, or followers so enthralled with your Presence that their loyalty borders on blind fanaticism. Some vampires, particularly those with the Animalism Discipline, use animal ghouls as retainers.
+
+You must maintain some control over your retainers, whether through a salary, the gift of your vitae, or the use of Disciplines. Retainers are never “blindly loyal no matter what” — if you treat them poorly without exercising strict control, they might well turn on you.
+
+Retainers may be useful, but they should never be flawless. A physically powerful ghoul might be rebellious, inconveniently dull-witted, or lacking in practical skills. A loyal manservant might be physically weak or possess no real personal initiative or creativity. This Background isn’t an excuse to craft an unstoppable bodyguard or pet assassin — it’s a method to bring more fully-developed characters into the chronicle, as well as to reflect the followers for which the Kindred are notorious. Generally, retainers are more like Renfield than Anita Blake. (If the player and Storyteller agree, a player may create a more competent single Retainer by combining more points in this Background, putting more eggs in one basket, as the saying goes.)
+
+Who the retainers are, how they were acquired, and how they are kept under control all need to be detailed in the character's backstory. Sheets must be made if they are to be used as frequent NPCs.
+
+• One retainer
+•• Two retainers
+••• Three retainers
+•••• Four retainers
+••••• Five retainers
+
+Status
+You have something of a reputation and standing (earned or unearned) within the local community of Kindred. Status among Camarilla society is as often derived from your sire’s status and the respect due your particular bloodline as it is by personal achievement. Among the Sabbat, status is more likely to stem from the reputation of your pack or the zeal of your outlook. Elders are known for having little respect for their juniors; this Background can mitigate that somewhat.
+
+High status within the Camarilla does not transfer to Sabbat society (and will most likely make you a notorious target for your Sect’s rivals), and vice versa. Similarly, Autarkis generally have zero Status, unless they have somehow garnered so much power and attention that they are considered forces to be reckoned with. You may have occasion to roll your Status in conjunction with a Social Trait; this reflects the positive effects of your prestige.
+
+• Known: a neonate/Pack Priest
+•• Respected: an ancilla/respected Ductus
+••• Influential: an elder/Templar
+•••• Powerful: a member of the Primogen/ a Bishop
+••••• Luminary: a Prince/Archbishop
+
+</details>
+
+<details>
+<summary>
+<b>Example (Click me!)</b>
+</summary>
+For our boxer, I went with the following:
+
+<img src="assets/exampleBackgrounds.png"></img>
+
+<b>Generation</b> was to lower him to 11th. His sire is still around and is teaching him about Kindred society, making him a low-tier <b>Mentor</b>. The <b>Resources</b> comes from his small boxing career in amateur venues, and a mediocre job he was able to keep since his Embrace.
+</details>
+
+<div class="leftHeader">
+Virtues
+</div>
+
+In a game about monsters and trying to stave off becoming the Beast, there needs to be some type of gauge of a character’s morals and how well they’re able to abide by them. These are known as Virtues: Conscience, Self-Control, and Courage.
+
+Each character starts with one in each Virtue automatically, and has 7 dots to distribute between them. As with Attributes, 2 dots is considered a “normal” human level.
+
+<details>
+<summary>
+<b>Example (Click me!)</b>
+</summary>
+
+<img src="assets/exampleVirtues.png"></img>
+
+Above, our boxer has high <b>Conscience</b> because of his strong beliefs in right and wrong, and high <b>Courage</b> because of his boxing career. His <b>Self-Control</b> is average, though he can be a little impulsive at times.
+</details>
+
+<div class="leftHeader">
+Humanity
+</div>
+
+<div class="yourAttentionPlease">
+
+<em>"Let’s make one thing clear: just because a vampire follows the Path of Humanity doesn’t mean she is a friendly, congenial saint. Vampires are predators by nature, and Humanity only gifts them with the ability to pretend they’re not. It is an internal charade that protects a Kindred from herself, much as the Masquerade protects vampires from the mortals outside.
+
+Unfortunately, the very nature of existence as a vampire is anathema to one’s Humanity. As the centuries wear on, the Beast takes hold, and Kindred become less and less concerned with the wellbeing of the kine (after all, they’ll die eventually, anyway). As such, characters are likely to lose Humanity over the course of the game.
+
+Mortals also typically follow the Path of Humanity, though this is largely out of ignorance: They don’t know they can be anything else. As such, this mechanical system for morality rarely comes into play for them. Certainly, some mortals — rapists, murderers, and the like — have low Humanity ratings, but they have no Beast roiling within them, as do the Kindred. It is possible for a vampire with a high Humanity rating to be more humane than some mortals are!"</em>
+
+~ V20, 311
+
+</div>
+
+Speaking of a morality system, every character as a rating that reflects how well they’re staving off the Beast: their Humanity. The initial value is going to be calculated by adding the total of dots between Conscience and Self-Control for both Human and Vampire characters.
+
+Humans are normally considered to be at 7 for an ‘average’ score, and this is where we recommend your character to be, though 6 is also acceptable. If they aren’t around this level, you can fix that a little later.
+
+Since our boxer had 4 in Conscience and 3 in Self-Control, that would put his humanity at 6. We can justify this by saying that since he had grown up in a rough neighborhood, he was desensitized to a lot of the grimier parts of life, such as death and destruction.
+
+To learn about the effects of Humanity, what each level means, and what happens when you reach 0, please check out the Morality page.
+
+<div class="leftHeader">
+Willpower
+</div>
+
+<div class = "yourAttentionPlease">
+
+<em>"Willpower measures a character’s inner drive and competence at overcoming unfavorable odds. Unlike other Traits, Willpower has both a permanent rating and a temporary pool of points. The rating is rolled or tested, while the pool is spent. When a player spends a point of a character’s Willpower, she should cross off the point from the Willpower pool (the squares), not the Willpower rating (the circles). The rating stays constant — if a character needs to roll Willpower for some reason, she bases the roll on the permanent rating. The pool is used up during the story.
+
+A character’s Willpower pool will likely fluctuate a great deal during the course of a story or chronicle. It decreases by one point every time a player uses a Willpower point to enable his character to do something extraordinary, like maintain self-control or gain an automatic success. Eventually, the character will have no Willpower left, and will no longer be able to exert the effort he once could. A character with no Willpower pool is exhausted mentally, physically, and spiritually, and will have great difficulty doing anything, as he can no longer muster the energy to undertake an action or cause. Willpower points can be regained during the course of a story, though players are advised to be frugal with their characters’ Willpower pools."</em>
+
+~ V20, 120
+
+</div>
+
+Willpower is regained at one point per evening, although this doesn’t mean that it should be spent on every roll one undertakes. It should be seen as an extreme exertion on the character’s part which takes quite a bit out of them each time.
+
+The character’s initial Willpower is based on their Courage rating. Humans normally have 2-4, whereas Vampires can have more. Anything higher than 6 should be well justified, as reaching high levels of mental fortitude isn’t easy.
+
+With 4 Courage, our Boxer is going to start with 4 Willpower.
+
+<div class="leftHeader">
+Blood Pool
+</div>
+
+Vampires need blood to sustain themselves, that’s a focal point of the curse that’s befallen them. All vampire characters will start with 5 in their pool to keep anyone from being too hungry.
+
+To see how blood can be spent, please read “Using Blood Pool” on page 268 of the core.
+
+<div class="leftHeader">
+Freebies
+</div>
+
+Congratulations! You’ve finished the bulk of character creation. As-is, this sheet is mechanically playable, however there’s another, optional, step that can be done to give the character a little more depth.
+
+Vampires get 15 freebie points, and Humans get 21 (as compensation for their lack of dots elsewhere.) This can be increased by 7 for each by taking Flaws to maximums of 22 and 28 respectively. Think of these points as supercharged experience points. They’re to help round out a character.
+
+<div class="secondHeader">What can I spend Freebie Points on?</div>
+
+You can spend them according to the following table. Note that if you’re playing a Human, you won’t be able to purchase disciplines and background dots might be hard to justify. <b>Remember to keep a receipt of what you spend them on in the space on the sheet, and to mark any dots bought in <span style="color: #4a86e8;">blue</span>.</b>
+
+<div class ="thirdHeader">Recomendations</div>
+
+* <b>Willpower:</b> Humans should be around 3-4 and vampires 4-5.
+* <b>Humanity:</b> Humans should be at 7, and vampires at 6-7.
+* <b>Attributes:</b> Any attributes at 1 dot that they shouldn't be below-average in should be increased to 2.
+* <b>Abilities:</b> If there's anything the character is exceptional at, you can increase it from 3 to 4. Remember to apply a specialty if you do.
+
+<div class = "secondHeader">Merits and Flaws</div>
+
+<div class = "yourAttentionPlease">
+
+<em>"Properly used, Merits and Flaws help players create and individualize their characters. Merits are special abilities or advantages that are rare or unique in the general Kindred population, while Flaws are liabilities or disadvantages that pose challenges to a character’s nightly existence. These Traits can provide player characters with added depth and personality, but Storytellers should be careful to ensure that any Traits chosen will not adversely influence the course of the chronicle or give one character an unfair advantage over the rest."</em>
+
+~ V20, 479
+
+</div>
+
+Merits and Flaws should be taken with the goal of adding depth to a character, not to buff them in a purely mechanical sense. If you imagined that your character would’ve been wearing glasses from the start, give them Bad Sight, and if you think that your character has never been in a fight before, they should have Combat Novice.
+
+Read more about the merits and flaws we allow here.
+
+<b>Remember:</b>
+
+* Merits and Flaws are earned and cannot be purchased with experience as long as it says they’re learnable. Flaws earned this way seldom provide compensation.
+* Check to make sure what you would like to take isn’t restricted based on your character type or clan
+* Banned Merits and Flaws will not be allowed in play
+* Anything restricted will require approval before it can be taken
+* You can take more Flaws past the 7 points without compensation
+* Flaws can be "bought" away with experience later if it seems the character has worked past it (such as someone with Incomplete Understanding being taught about Kindred society and gaining a mentor.) This won’t remove the Freebies you gained from having the flaw.
+
+<div class = "thirdHeader"> What if I'm playing a human?</div>
+
+You're allowed to asave as many freebies as you would like to spend on merits after being Embraced or ghouled in-character, just make sure you note that you're saving them on your sheet.
+
+<table>
+<thead>
+  <tr>
+    <th style="color: #384b7e;">Trait</th>
+    <th style="color: #384b7e;">Cost</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Attribute</td>
+    <td>5 per dot</td>
+  </tr>
+  <tr>
+    <td>Ability</td>
+    <td>2 per dot</td>
+  </tr>
+  <tr>
+    <td>Discipline</td>
+    <td>7 per dot</td>
+  </tr>
+  <tr>
+    <td>Backgrounds</td>
+    <td>1 per dot</td>
+  </tr>
+  <tr>
+    <td>Virtue</td>
+    <td>2 per dot</td>
+  </tr>
+  <tr>
+    <td>Humanity</td>
+    <td>2 per dot</td>
+  </tr>
+  <tr>
+    <td>Willpower</td>
+    <td>1 per do</td>
+  </tr>
+</tbody>
+</table>
+
+
+<div class = "leftHeader">Experience</div>
+
+Humans can't start with bonus experience. Vampire characters over a year of age can have 1 point per year of unlife to a maximum of 10. If you have any, add them to your sheet, as you'll be able to spend it at a later time.
+
+<div class = "leftHeader">Additional Requirements</div>
+
+Aside from the character sheet, we require a backstory with a 500 word minimum. If you don't have an idea of how to start this, or you're unsure of how to structure it, use this as a guide:
+
+<details>
+<summary>
+<b>Guide (Click me!)</b>
+</summary>
+<b>Target:</b> 500+ Words, 4+ paragraphs, 125+ words for each paragraph.
+
+<b>Paragraph 1</b>
+
+* Introduction of their parents (or lack of thereof)
+* Circumstances of birth
+* Place of birth
+* Social status of their family
+
+<b>Paragraph 2</b>
+
+* Childhood
+* Relationship with family
+* Friendships
+* Life lessons (ex. Learned not to touch the stove because it’s hot)
+* Interests forming (ex. They loved playing music since they bonded over it with their mother)
+
+<b>Paragraph 3</b>
+
+* Adolescence and adulthood
+* How their relationships changed with family and friends
+* Learning more about themselves (sexuality, strengths and weaknesses, etc.)
+* How they got to LA if they were born elsewhere
+* Occupation and if that aligned with their dreams and why. (Ex. They realized that making a living as a musician wasn't realistic and went to college for something technical instead) If they are unemployed explained why and how that has impacted them!
+
+<b>Paragraph 3.5 (Vampires only!)</b>
+
+* Their Sire and reason for embrace
+* Embrace
+* Introduction into the World of Darkness
+* Reaction
+
+<b>Paragraph 4</b>
+
+* Current day
+* Where are they living
+* Their current outlook on the day-to-day of their life
+* Goals and dreams for the future (ex. They play music at small local gigs to make some side cash because they enjoy it so much)
+* Current relationships or ones that have advanced still since the last paragraphs
+</details>
+
+<div class="leftHeader">Submisison</div>
+
+All character sheets are submitted directly through our bot, Caine. Please visit his documentation here and refer to #getting-started for more information.
+
+<div class="leftHeader">Questions?</div>
+
+If you have further questions, please message the Storyteller, an Assistant Storyteller, or post in #roleplay-discussion. Thank you!
+
+</div>
+
+
+<div class= blueWrapper>
+  <div class=whiteBlueBreak> </div>
+  <div class="footer" style="color: white; background-color: #384b7e;">
+    La in Anarchy (LAiA) is not official World of Darkness material from White Wolf. Portions of this material are copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information, please visit: <a href="https://worldofdarkness.com/">https://worldofdarkness.com/</a>
+    <span style="margin-top: 10px;"> <img src='assets/darkPack.png' width="130px"> </span>
+    </div>
+</div>

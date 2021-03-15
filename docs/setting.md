@@ -81,11 +81,10 @@
 
   The sects responded differently to this, with the Sabbat viewing it as The Regression (regressing from their vampiric state to the lesser one of humanity), with the Anarchs and Camarilla viewing it as The Reversion (reverting to being human.) Many both left and joined their sects because of this, whether they saw it as proof of God's existence and wished to repent, or a sign of the end times.
 
-  That wasn't the only consequence, however. Any female Kindred that didn't die or neglected to use protection when they had sex during this week found themselves pregnant even once they resumed undeath. This brought about a sheer panic to both the Camarilla and Sabbat Kindred, the Anarchs stuck in the middle of their paranoid squabbling.
+  That wasn't the only consequence, however. Any female Kindred that didn't die and neglected to use protection when they had sex during this week found themselves pregnant even once they resumed undeath. This brought about a sheer panic to both the Camarilla and Sabbat Kindred, with the Anarchs stuck in the middle of their paranoid squabbling.
 
   Rought with fears of Gehenna, the Sabbat was quick to execute any and every pregnant cainite they came across. Progroms were held in Canada, Mexico, and parts of Europe to make sure they could stave their impending doom a while longer. The Camarilla, as much as they attempted to disguise it, held similar fears. Claiming it was to "protect the masquerade," they ordered all Princes to retrieve any pregnant Kindred and have them brought to local Tremere chantries "for monitoring." Any who didn't comply were to be executed.
 
-  These orders upset a majority of Kindred in both sects, leading to mass defection from both sides to the Anarch Movement, with protests beginning to spark. It wasn't long before even the Tremere began to splinter, with Elder Tremere Carna separating to form her own House within the Movement based in Los Angeles.
 </div>
 
 <div class="blueWrapper";">
@@ -94,11 +93,16 @@
   <div class="leftHeader" style="color: white;">
   The Third Anarch Revolt
   </div>
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed et odio eros. Aliquam sapien nisl, vehicula eget rhoncus tempor, gravida a massa. Duis tortor nunc, dapibus in vestibulum dignissim, volutpat ut mi. Nullam dapibus diam ante. Phasellus facilisis tortor augue, quis lacinia odio ornare eget. Cras ac tortor ut nisi rhoncus ultrices. Nunc sollicitudin neque purus, non hendrerit orci ultricies a. Vestibulum sed turpis vel justo ultricies tempor. Quisque nulla ligula, sollicitudin ac sapien aliquet, posuere egestas velit. Mauris eget mi elit. Donec rhoncus, neque id tincidunt congue, diam quam sodales turpis, sollicitudin mattis elit arcu a odio. Nulla a diam ultrices, pharetra ligula non, imperdiet est. Cras condimentum accumsan mi, a tincidunt ipsum ornare fringilla. Maecenas facilisis rhoncus ex et volutpat. Maecenas at rhoncus eros.
+  The fuse was lit. Over the next few nights, utter chaos erupted among Kindred society.
 
-  Sed maximus sapien nibh, ut aliquam nunc iaculis id. Fusce tristique, nunc at venenatis fringilla, nibh erat euismod nisi, at finibus lacus tortor tincidunt sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas at turpis turpis. Pellentesque ac tincidunt lectus. Aenean facilisis, sem vel ornare condimentum, mi nibh fermentum lacus, nec vestibulum dolor nisl quis tortor. Fusce tempus enim eget ligula vulputate finibus. Nulla facilisi. Integer gravida enim id diam semper, a iaculis diam congue. Proin arcu justo, fermentum nec venenatis vestibulum, scelerisque eget quam. Aenean molestie maximus nibh eget euismod. Vestibulum tempus posuere pellentesque. Ut semper porttitor venenatis. Ut a massa ultrices, tempus velit sit amet, vestibulum neque. Proin ac semper nisi, vel maximus purus. Suspendisse purus elit, dictum eu elit in, varius sollicitudin enim.
+  It began with a mass defection. The Ivory Tower crumbled as the Brujah, Gangrel, Nosferatu, and Toreador withdrew as pillar clans, and many of it's members renounced their allegiance, bolstering both the Sabbat and Movement's numbers by considerable margins. Even the Tremere splintered, with elder Carna removing herself from the sect, and bringing many of the younger Warlocks with her. Previously Camarilla strongholds became zones of attrition between newly declared Anarch gangs and Sabbat Packs trying to scrape together whatever advantage they could, while the Camarilla that remained fled to the what few cities were still theirs. <a href="https://docs.google.com/spreadsheets/d/1X-PLqo_Lagn2L_rk_CfmrV0f6FLc7D9Tm65Wztv9wBU/edit?usp=sharing"><em>(City Alignment Sheet)</em></a>
 
-  Proin sagittis elit mauris, in imperdiet sem mollis sed. Aenean et nisi et tellus ultrices molestie. Nullam ante ante, blandit non elementum eget, commodo quis purus. Pellentesque in orci in ex hendrerit porttitor at a est. Quisque convallis leo quis dui egestas, ut efficitur neque fermentum. Suspendisse tincidunt porta laoreet. Fusce tempus posuere tortor, sed ultrices felis mattis in. Vivamus vestibulum nibh vel condimentum iaculis. Aliquam porttitor et turpis sed dapibus. Donec lobortis, enim eu consectetur ultrices, est elit iaculis urna, in placerat massa enim eu nunc. Donec ac scelerisque sapien. Nam sit amet erat facilisis lacus suscipit eleifend vel quis enim.
+  All the while Los Angeles, the renown Anarch Free State, was seeing Kindred arrive in droves. Anarchs wanting to escape the fighting and Antitirbu growing disillusioned with their respective sects alike wished to find some place to gather until the dust settled. Wishing to get ahead of the eventual turf wars, Baron Baldwin withdrew from the greater LA area, concentrating his efforts on securing the Barony of Angels.
+
+  With territory up for grabs, and the local Tremere having already defected with most of the Camarilla in LA, Carna made her intentions to center her house's operations there very clear. The Lord that had been sent to investigate the status of the LA Chantry, Meera Braun, was instructed to begin relocation to Rockhaven Sanitarium and prepare the site for the rest of the now Anarch-aligned clan's arrival.
+
+  Out of the independent clans, the Followers of Set were impacted most heavily. Radicalized, the Cohort of Wepwawet sized control over the majority of the cults. With many Setites now disillusioned from the Reversion, those who didn't share the Warriors' fervor quickly fled to the Movement. Others found themselves among the Serpents of the Light as the Sword's belief in Gehenna swayed them more than the supposed return of Set.
+
 </div>
   <div class="whiteBlueBreak" style="transform: rotate(180deg);"> </div>
 </div>
@@ -107,13 +111,26 @@
   <div class="leftHeader">
   Current Situation
   </div>
-    Proin sagittis elit mauris, in imperdiet sem mollis sed. Aenean et nisi et tellus ultrices molestie. Nullam ante ante, blandit non elementum eget, commodo quis purus. Pellentesque in orci in ex hendrerit porttitor at a est. Quisque convallis leo quis dui egestas, ut efficitur neque fermentum. Suspendisse tincidunt porta laoreet. Fusce tempus posuere tortor, sed ultrices felis mattis in. Vivamus vestibulum nibh vel condimentum iaculis. Aliquam porttitor et turpis sed dapibus. Donec lobortis, enim eu consectetur ultrices, est elit iaculis urna, in placerat massa enim eu nunc. Donec ac scelerisque sapien. Nam sit amet erat facilisis lacus suscipit eleifend vel quis enim.
+  The Camarilla is a shadow of its former self, with only the Ventrue, Tremere, and Malkavian as officially represented clans. They have tried to appeal to Caitiff, which goes to show how desperate they are for numbers. Openly declaring support with the Camarilla is a sure way to put a target on your back, and a molotov in your haven.
+
+  Successful in many of their sieges, the Sabbat is heavily radicalized and waiting to be pointed at their next target. Despite the belief in their cause, the numbers they gained diluted their ranks. Disorganization and misinformation continue to spread among newer packs, with the gab between True and False growing by the evening.
+
+  In all of these, the Anarchs have never seen so much support. While previously they had been a young mixture brought together by mutual hatred of the Tower and not much else, the defectors from the Camarilla and Sabbat both have brought some semblance of structure. While not all Anarch strongholds are as dedicated as others, the Status Perfectus made more than a few rounds, with Kindred previously having scoffed at the idea now giving it a second thought.
+
+  Locally, downtown Los Angeles remains under the control of Baron Garret Baldwin. He intends to keep the Barony of Angeles a neutral ground, allowing Kindred a location to haven and hunt provided they respect his domain.
+
+  Glendale has officially been declared an Anarch Barony by Councilor Carna, although she is rarely seen among the territory herself. Many of the anarch chantry's nightly operations fall to the magisters that defected, and previous Lord Braun that has been assigned as Regent.
+
+  The only other claimed territory is Hollywood, which remains under the control of the Toreador Methuselah Melisande. With a notable lack of interest in the Jyhad, she does little to provke those that respect her domain.
+
+  Most recently, the Camarilla appointed elder Ventrue Nathaniel Stafford as the new Prince. There are rumors that this has attracted some of the remaining Camarilla members to the city, although few anarchs spreading such things have little but hearsay to prove it.
+
 </div>
 
 <div class= blueWrapper>
   <div class=whiteBlueBreak> </div>
   <div class="footer" style="color: white; background-color: #384b7e;">
-    La in Anarchy (LAiA) is not official World of Darkness material from White Wolf. Portions of this material are copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information, please visit: <a href="https://www.white-wolf.com/">https://www.white-wolf.com/</a>
+    La in Anarchy (LAiA) is not official World of Darkness material from White Wolf. Portions of this material are copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information, please visit: <a href="https://worldofdarkness.com/">https://worldofdarkness.com/</a>
     <span style="margin-top: 10px;"> <img src='assets/darkPack.png' width="130px"> </span>
     </div>
 </div>

@@ -5,12 +5,37 @@
   * [New Player Guide](new-player-guide.md)
   * [NPC Guidelines](npc-guidelines.md)
 * Resources
-  * [Traits](traits.md)
-  * [Archetypes](archetypes.md)
-  * [Morality](morality.md)
-  * [Frenzy](frenzy.md)
+
+<details class="sideBar">
+<summary class="sideBar">
+Traits
+</summary>
+
+<ul class="sideBar">
+
+* [Archetypes](archetypes.md)
+* [Attributes](attributes.md)
+* [Abilities](abilities.md)
+* [Backgrounds](backgrounds.md)
+* [Willpower](willpower.md)
+* [Disciplines](disciplines.md)
+
+</ul>
+
+</details>
+
+<ul>
+
+* [Morality](morality.md)
+* [Frenzy](frenzy.md)
+* [Merits & Flaws](merits-flaws.md)
+
+</ul>
+
+
 * References
   * [Caine](caine.md)
   * [Hunting](hunting.md)
   * [Combat](combat.md)
-  * [FAQ](faq.md)
+
+<button onclick="location.href='https://discord.gg/eP69fNm'" class="button discordJoin">Join Server</button>

@@ -21,18 +21,18 @@ Materials
 These are our Approved resources. The character sheet linked below must be used in order to submit a character.
 
 <b class="whiteBold">Books</b>
-* <a href="http://bit.ly/V20-Core">Core Rulebook</a>
-* <a href="http://bit.ly/V20-Companion">V20 Companion</a>
-* <a href="http://bit.ly/V20-Clans">Lore of the Clans</a>
-* <a href="http://bit.ly/V20-Bloodlines">Lore of the Bloodlines</a>
-* <a href="http://bit.ly/V20-Ghouls-and-Revenants">Ghouls and Revenants</a>
-* <a href="http://bit.ly/V20-Anarchs">Anarchs Unbound</a>
-* <a href="http://bit.ly/V20-Rites-of-the-Blood">Rites of the Blood</a>
+* <a href="https://www.drivethrurpg.com/product/94815/Vampire-The-Masquerade-20th-Anniversary-Edition">Core Rulebook</a>
+* <a href="https://www.drivethrurpg.com/product/102130/V20-Companion">V20 Companion</a>
+* <a href="https://www.drivethrurpg.com/product/160891/V20-Lore-of-the-Clans">Lore of the Clans</a>
+* <a href="https://www.drivethrurpg.com/product/207392/V20-Lore-of-the-Bloodlines">Lore of the Bloodlines</a>
+* <a href="https://www.drivethrurpg.com/product/184039/V20-Ghouls--Revenants">Ghouls and Revenants</a>
+* <a href="https://www.drivethrurpg.com/product/127247/V20-Anarchs-Unbound">Anarchs Unbound</a>
+* <a href="https://www.drivethrurpg.com/product/131877/V20-Rites-of-the-Blood">Rites of the Blood</a>
 
 <b class="whiteBold">Character Sheets</b>
-* <a href="http://bit.ly/V20-Vampire-Sheet">Vampire</a>
-* <a href="http://bit.ly/V20-Ghoul-Sheet">Ghoul</a>
-* <a href="http://bit.ly/V20-Human-Sheet">Human</a>
+* <a href="http://bit.ly/Vampire-Sheet-2021">Vampire</a>
+* <a href="http://bit.ly/Ghoul-Sheet-2021">Ghoul</a>
+* <a href="http://bit.ly/Human-Sheet-2021">Human</a>
 
 <div class="swatchHeader" style="color: #100c0d;">
 House Rules and Restrictions
@@ -193,7 +193,7 @@ The Giovanni were untouched by the news of the revolt, consolidated in their ter
   #### ** Malkavian **
 
   <div class="secondHeader">Malkavian</div>
-  <em>"You misunderstand the situation if you think you’re important to me alive."</em>
+  <em>"I was trying to turn water into wine. Where the fuck did all this blood come from? Oh, well — waste not, want not."</em>
 
 The Seers found themselves divided as the Camarilla waned and crumbled around them despite being one of the lesser pillar clans. A majority of the Elders either remained with the Camarilla, or retreated to their havens to weather the incoming storm. The younger amongst the clan were bolstering the ranks of the Third Anarch Revolt.
 
@@ -764,7 +764,7 @@ Please submit the link to your google doc to our bot Caine. Please see #getting-
 <div class= blueWrapper>
   <div class=whiteBlueBreak> </div>
   <div class="footer" style="color: white; background-color: #384b7e;">
-    La in Anarchy (LAiA) is not official World of Darkness material from White Wolf. Portions of this material are copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information, please visit: <a href="https://www.white-wolf.com/">https://www.white-wolf.com/</a>
+    La in Anarchy (LAiA) is not official World of Darkness material from White Wolf. Portions of this material are copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information, please visit: <a href="https://worldofdarkness.com/">https://worldofdarkness.com/</a>
     <span style="margin-top: 10px;"> <img src='assets/darkPack.png' width="130px"> </span>
     </div>
 </div>

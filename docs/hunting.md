@@ -3,7 +3,7 @@
   <meta name="description" content="LA in Anarchy's Hunting System">
 </head>
 
-<div class="pageHero" style="background-image: url('assets/huntingCover.jpg'); background-position: 0px -250px;">
+<div class="pageHero" style="background-image: url('assets/huntingCover.png');">
   <div class="pageHeroHeader">
       Hunting
   </div>
@@ -14,6 +14,14 @@
 Rolling to Hunting
 </div>
 Hunting is a vital part of Vampire: the Masquerade. Unfortunately, because of the amount of players, Storytellers aren't able to narrate every single hunt that happens on the server. To keep things running smoothly players are able to construct a roll from tables below and hunt with relative autonomy.
+
+<div class="yourAttentionPlease">
+
+<b>Important</b>
+
+The minimum hunting difficulty is 4, even if backgrounds, location, and other factors make it lower.
+
+</div>
 
 <div class="secondHeader">
 Process
@@ -41,7 +49,7 @@ Backgrounds
 
 Only the following backgrounds can be applied to hunting rolls:
 
-* <b>Domain:</b> Reduces the difficulty of the roll by one per dot to a minimum of 3 as long as the character is hunting inside of their domain
+* <b>Domain:</b> Reduces the difficulty of the roll by one per dot to a minimum of 4 as long as the character is hunting inside of their domain
 * <b>Herd:</b> Adds one die to all pools per dot as long as they are attempting to feed from their herd specifically
 * <b>Fame:</b> Reduces the difficulty of the roll by one per dot to a minimum of 3 as long as their fans would realistically be within the area they are hunting.
 
@@ -409,7 +417,7 @@ One of the hotspots of LA, there are always tourists who make exceptional seduct
 <div class= blueWrapper>
   <div class=whiteBlueBreak> </div>
   <div class="footer" style="color: white; background-color: #384b7e;">
-    La in Anarchy (LAiA) is not official World of Darkness material from White Wolf. Portions of this material are copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information, please visit: <a href="https://www.white-wolf.com/">https://www.white-wolf.com/</a>
+    La in Anarchy (LAiA) is not official World of Darkness material from White Wolf. Portions of this material are copyrights and trademarks of Paradox Interactive AB, and are used with permission. All rights reserved. For more information, please visit: <a href="https://worldofdarkness.com/">https://worldofdarkness.com/</a>
     <span style="margin-top: 10px;"> <img src='assets/darkPack.png' width="130px"> </span>
     </div>
 </div>

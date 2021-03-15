@@ -278,7 +278,7 @@
 
     /* Nav Links */
     --sidebar-nav-link-background-color           : ;
-    --sidebar-nav-link-background-color--active   : ;
+    --sidebar-nav-link-background-color--active   : white;
     --sidebar-nav-link-background-color--hover    : ;
     --sidebar-nav-link-background-image           : ;
     --sidebar-nav-link-background-image--active   : ;
@@ -301,16 +301,16 @@
     --sidebar-nav-link-border-width--active       : ;
     --sidebar-nav-link-border-width--hover        : ;
     --sidebar-nav-link-color                      : white;
-    --sidebar-nav-link-color--active              : ;
+    --sidebar-nav-link-color--active              : #384b7e;
     --sidebar-nav-link-color--hover               : ;
     --sidebar-nav-link-font-weight                : normal;
     --sidebar-nav-link-font-weight--active        : ;
     --sidebar-nav-link-font-weight--hover         : ;
     --sidebar-nav-link-margin                     : .5em 0 .5em 0;
-    --sidebar-nav-link-padding                    : 0.25em 0;
+    --sidebar-nav-link-padding                    : 0.25em 0em;
     --sidebar-nav-link-text-decoration            : ;
-    --sidebar-nav-link-text-decoration--active    : underline;
-    --sidebar-nav-link-text-decoration--hover     : underline;
+    --sidebar-nav-link-text-decoration--active    : none;
+    --sidebar-nav-link-text-decoration--hover     : none;
     --sidebar-nav-link-text-decoration-color      : ;
     --sidebar-nav-link-transition                 : ;
 
@@ -354,7 +354,7 @@
     --sidebar-nav-pagelink-background-position--loaded  : ;
     --sidebar-nav-pagelink-background-repeat            : no-repeat;
     --sidebar-nav-pagelink-background-size              : ;
-    --sidebar-nav-pagelink-padding                      : ;
+    --sidebar-nav-pagelink-padding                      : 0px 0px 0px 5px;
     --sidebar-nav-pagelink-transition                   : var(--sidebar-nav-link-transition);
 
     /* Toggle */
@@ -553,6 +553,7 @@ b.whiteBold {
   padding: 5px;
   max-width: 500px;
   color: #384b7e;
+  margin-top: 10px;
 }
 
 *:focus {
@@ -592,6 +593,59 @@ b.whiteBold {
 
 th.white {
   background-color: white;
+}
+
+.discordJoin {
+  background-color: #7289DA;
+  border-radius: 28px;
+  border-color: #7289DA;
+  width: 216px;
+  height: 50px;
+  padding: 12px 32px;
+  font-size: 20px;
+  margin-top: 80px;
+  color: white;
+  transition-duration: 0.4s;
+  border-width: 0px;
+}
+
+.discordJoin:hover {
+  background-color: #8ea1e1;
+  cursor: pointer;
+}
+
+details.sideBar > summary.sideBar {
+
+  cursor: pointer;
+
+}
+
+summary.sideBar {
+  list-style-type: none;
+  text-indent: 0px;
+  margin: 8px 0px;
+  font-weight: normal;
+}
+
+ul.sideBar {
+  text-indent: 20px;
+  font-style: italic;
+
+}
+
+summary.sideBar:hover {
+  list-style-image: none;
+  text-indent: 0px;
+  margin: 8px 0px;
+  font-weight: bold;
+}
+
+summary.sideBar::-webkit-details-marker {
+  visibility: hidden;
+}
+
+ul.indentRegular{
+  text-indent: 0px;
 }
 
 @media screen and (max-width:990px) {

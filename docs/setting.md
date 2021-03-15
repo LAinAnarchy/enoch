@@ -115,9 +115,9 @@
 
   Successful in many of their sieges, the Sabbat is heavily radicalized and waiting to be pointed at their next target. Despite the belief in their cause, the numbers they gained diluted their ranks. Disorganization and misinformation continue to spread among newer packs, with the gap between True and False growing by the evening.
 
-  In all of these, the Anarchs have never seen so much support. While previously they had been a young mixture brought together by mutual hatred of the Tower and not much else, the defectors from the Camarilla and Sabbat both have brought some semblance of structure. While not all Anarch strongholds are as dedicated as others, the Status Perfectus made more than a few rounds, with Kindred previously having scoffed at the idea now giving it a second thought.
+  In all of this, the Anarchs have never seen so much support. While previously they had been a young mixture brought together by mutual hatred of the Tower and not much else, the defectors from the Camarilla and Sabbat both have brought some semblance of structure. While not all Anarch strongholds are as dedicated as others, the Status Perfectus made more than a few rounds, with Kindred previously having scoffed at the idea now giving it a second thought.
 
-  Locally, downtown Los Angeles remains under the control of Baron Garret Baldwin. He intends to keep the Barony of Angeles a neutral ground, allowing Kindred a location to haven and hunt provided they respect his domain.
+  Locally, downtown Los Angeles remains under the control of Baron Garret Baldwin. He intends to keep the Barony of Angels a neutral ground, allowing Kindred a location to haven and hunt provided they respect his domain.
 
   Glendale has officially been declared an Anarch Barony by Councilor Carna, although she is rarely seen among the territory herself. Many of the anarch chantry's nightly operations fall to the magisters that defected, and previous Lord Braun that has been assigned as Regent.
 

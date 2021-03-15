@@ -113,7 +113,7 @@
   </div>
   The Camarilla is a shadow of its former self, with only the Ventrue, Tremere, and Malkavian as officially represented clans. They have tried to appeal to Caitiff, which goes to show how desperate they are for numbers. Openly declaring support with the Camarilla is a sure way to put a target on your back, and a molotov in your haven.
 
-  Successful in many of their sieges, the Sabbat is heavily radicalized and waiting to be pointed at their next target. Despite the belief in their cause, the numbers they gained diluted their ranks. Disorganization and misinformation continue to spread among newer packs, with the gab between True and False growing by the evening.
+  Successful in many of their sieges, the Sabbat is heavily radicalized and waiting to be pointed at their next target. Despite the belief in their cause, the numbers they gained diluted their ranks. Disorganization and misinformation continue to spread among newer packs, with the gap between True and False growing by the evening.
 
   In all of these, the Anarchs have never seen so much support. While previously they had been a young mixture brought together by mutual hatred of the Tower and not much else, the defectors from the Camarilla and Sabbat both have brought some semblance of structure. While not all Anarch strongholds are as dedicated as others, the Status Perfectus made more than a few rounds, with Kindred previously having scoffed at the idea now giving it a second thought.
 

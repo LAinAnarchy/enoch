@@ -121,7 +121,7 @@
 
   Glendale has officially been declared an Anarch Barony by Councilor Carna, although she is rarely seen among the territory herself. Many of the anarch chantry's nightly operations fall to the magisters that defected, and previous Lord Braun that has been assigned as Regent.
 
-  The only other claimed territory is Hollywood, which remains under the control of the Toreador Methuselah Melisande. With a notable lack of interest in the Jyhad, she does little to provke those that respect her domain.
+  The only other claimed territory is Hollywood, which remains under the control of the Toreador Methuselah Melisande. With a notable lack of interest in the Jyhad, she does little to provoke those that respect her domain.
 
   Most recently, the Camarilla appointed elder Ventrue Nathaniel Stafford as the new Prince. There are rumors that this has attracted some of the remaining Camarilla members to the city, although few anarchs spreading such things have little but hearsay to prove it.
 
